@@ -33,7 +33,18 @@ ul li {
 .bg-light {
     background-color: transparent !important;
 }
-
+/* ========
+   BASIC
+========== */
+.padd-60 {
+    padding: 60px 0;
+}
+.padd-40 {
+    padding: 40px 0;
+}
+.padd-20 {
+    padding: 20px 0;
+}
 
 
 
